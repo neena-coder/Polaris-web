@@ -1,0 +1,16 @@
+/* custom.css */
+
+/* Adjust base font size */
+body {
+    font-size: 16px; /* Default is 16px */
+}
+
+/* Adjust larger font size */
+/* h1, h2, h3, h4, h5, h6 {
+    font-size: 4rem; /* Example larger font size */
+} */
+
+/* Adjust smaller font size */
+.small-text {
+    font-size: 0.8rem; /* Example smaller font size */
+}
