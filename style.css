@@ -13,11 +13,11 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    min-height: 70vh;
+    /* min-height: 70vh; */
     padding: 20rem 3rem 0rem;
     width: 100%;
 }
-.one h3{
+.one h3{e
     color: white;
 }
 .one p{
@@ -190,7 +190,7 @@ main .row .in{
     height: 100%;
     background: url('./shirley-langton-1e3PmJGrTR4-unsplash.jpg') no-repeat center center;
     background-size: cover;
-    opacity: 0.95;
+    /* opacity: 0.97; */
     z-index: -1;
   }
   
